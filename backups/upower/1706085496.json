@@ -1,0 +1,22 @@
+{
+ "created_utc": 1706085496,
+ "native_path": "BAT0",
+ "vendor": "SMP",
+ "model": "5B10W51869",
+ "technology": "lithium-polymer",
+ "serial_nr": "511",
+ "power_supply": true,
+ "updated": "Mi 24 Jan 2024 09:36:30 (106 seconds ago)",
+ "state": "discharging",
+ "energy": 46.03,
+ "energy_empty": 0.0,
+ "energy_full": 46.52,
+ "energy_full_design": 52.5,
+ "energy_rate": 10.776,
+ "voltage": 17.024,
+ "charge_cycles": 278,
+ "time_to_empty": "4.3",
+ "time_to_full": null,
+ "percentage": 99.0,
+ "capacity_percent": 88.6095
+}
